@@ -1,5 +1,8 @@
 # Predicting Tips in the New York Taxi Market
 
+Read the report:
+https://github.com/alexwilkes/newyorktaxis/blob/master/AlexanderWilkes_1833720_DrAlfieAbdulRahman_FinalReport_2018-19.pdf
+
 # Contents
 01_Data_Acquisition.py - Downloads spatial and tabular data from the NYC TLC website, samples it and stores it locally
 02_Data_Cleaning_Tabular.py - Implements data cleaning on the tabular data

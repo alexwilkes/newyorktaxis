@@ -12,7 +12,8 @@ https://github.com/alexwilkes/newyorktaxis/blob/master/AlexanderWilkes_1833720_D
 06_Initial_Exploration.py - Produces a number of plots relating tipping to key features
 07_Regression.py - Regression approach to tip prediction
 08_Classification - Classification approach to tip prediction
-utility.py - This contains a number of utility functions used by the scripts and must be included in the same location. It is not intended to be run directly.
+utility.py - This contains a number of utility functions used by the scripts and must be included in the same location. It is
+not intended to be run directly.
 
 # Instructions
 Run all files except utility.py in order of the two digit prefix of the filename.
@@ -20,8 +21,10 @@ Run all files except utility.py in order of the two digit prefix of the filename
 # Notes
 - All scripts are written in Python 2.7.
 - Scripts should be run in order as some have dependencies on data produced by the previous scripts.
-- 01_Data_Acquisition.py can be configured to download data from specific months or years. It is recommended that at least one full year's data is downloaded.
-- You will need to manually deploy the weather data CSV to a directory called data in the location the script runs from i.e. ./data/Weather_extract_2018.csv. The rest of the data will be downloaded and unzipped automatically by the scripts.
+- 01_Data_Acquisition.py can be configured to download data from specific months or years. It is recommended that at least
+one full year's data is downloaded.
+- You will need to manually deploy the weather data CSV to a directory called data in the location the script runs from
+i.e. ./data/Weather_extract_2018.csv. The rest of the data will be downloaded and unzipped automatically by the scripts.
 - You will also need to create the directory ./figures where the plots will be created.
 
 # Dependencies
